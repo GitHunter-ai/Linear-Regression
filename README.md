@@ -32,7 +32,7 @@ README.md                   # You're here!
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/GitHunter-ai/Linear-Regression.git
-   cd linear-regression-scratch
+   cd Linear-Regression
    ```
 
 2. **Install dependencies**:
